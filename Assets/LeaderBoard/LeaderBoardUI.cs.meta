@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0a6e8a81b4b564b45969e312f321bcdc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - globalBroad: {instanceID: 0}
+  - friendBroad: {instanceID: 0}
+  - playerStatPrefab: {instanceID: 0}
+  - selfPlayerStatPrefab: {fileID: 3506884383690449458, guid: 89f2d4b737cc9894686957cc097a3583,
+      type: 3}
+  - friendPlayerStatPrefab: {fileID: 74636578339093952, guid: bcb9f4cc601ddba47ae47b02e7c6c79d,
+      type: 3}
+  - nextrankPlayerStatPrefab: {instanceID: 0}
+  - messenger: {instanceID: 0}
+  - msg: {instanceID: 0}
+  - loading: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
